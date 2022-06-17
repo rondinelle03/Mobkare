@@ -2905,7 +2905,7 @@ fieldset:disabled .btn {
 .btn-light:active,
 .show > .btn-light.dropdown-toggle {
     color: #000;
-    background-color: #f7f9fb;
+    background-color: #f7f9fb;  
     border-color: #f6f9fb;
 }
 .btn-check:active + .btn-light:focus,
@@ -2920,6 +2920,9 @@ fieldset:disabled .btn {
     color: #000;
     background-color: #f5f8fa;
     border-color: #f5f8fa;
+}
+.bl-font{
+    color:#0066FF !important;
 }
 .btn-primary {
     color: #000;
